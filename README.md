@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+***#I am Andy Phasayaseng, a Game Programming Student at Champlain College! I hope to one day work on or create video games as my career!!***
+
 <!--
 **Andykp1989/Andykp1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
