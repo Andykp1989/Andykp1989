@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! 👋
 
 ***#I am Andy Phasayaseng, a Game Programming Student at Champlain College! I hope to one day work on or create video games as my career!!***
 
